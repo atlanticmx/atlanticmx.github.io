@@ -1,0 +1,408 @@
+.version.about /* version checker */
+{
+	color: #000005;
+	background-color: #EDE788;
+}
+
+.html
+{
+	background-color: #000000;
+}
+
+#page
+{
+	z-index: 1;
+	width: 960px;
+	min-height: 480px;
+	background-image: none;
+	border-style: none;
+	border-color: #000000;
+	background-color: transparent;
+	padding-bottom: 20px;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#pu150-6
+{
+	width: 0.01px;
+}
+
+#u150-6
+{
+	z-index: 27;
+	margin-right: -10000px;
+}
+
+#pu151-4
+{
+	width: 0.01px;
+	padding-bottom: 0px;
+	margin-right: -10000px;
+	margin-left: 514px;
+}
+
+#u151-4
+{
+	z-index: 33;
+}
+
+#menuu75
+{
+	z-index: 2;
+	width: 386px;
+	margin-left: 60px;
+	margin-top: 4px;
+}
+
+#u83
+{
+	width: 95px;
+	min-height: 38px;
+	margin-right: -10000px;
+}
+
+#u84
+{
+	width: 95px;
+	padding-bottom: 19px;
+}
+
+#u98
+{
+	width: 95px;
+	min-height: 38px;
+	margin-right: -10000px;
+	left: 97px;
+}
+
+#u101
+{
+	width: 95px;
+	padding-bottom: 19px;
+}
+
+#u84.MuseMenuActive,#u101:hover
+{
+	width: 95px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u130
+{
+	width: 95px;
+	min-height: 38px;
+	margin-right: -10000px;
+	left: 194px;
+}
+
+#u131
+{
+	width: 95px;
+	padding-bottom: 19px;
+}
+
+#u143
+{
+	width: 95px;
+	min-height: 38px;
+	margin-right: -10000px;
+	left: 291px;
+}
+
+#u146
+{
+	width: 95px;
+	padding-bottom: 19px;
+}
+
+#u101.MuseMenuActive,#u131.MuseMenuActive,#u146.MuseMenuActive
+{
+	width: 95px;
+	min-height: 0px;
+	margin: 0px;
+}
+
+#u87,#u103,#u134,#u148
+{
+	min-height: 19px;
+	min-width: 95px;
+	height: 19px;
+	width: 95px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u84:hover #u87,#u84.MuseMenuActive #u87,#u101:hover #u103,#u101.MuseMenuActive #u103,#u131:hover #u134,#u131.MuseMenuActive #u134,#u146:hover #u148,#u146.MuseMenuActive #u148
+{
+	height: 19px;
+	width: 95px;
+}
+
+#slideshowu261
+{
+	z-index: 37;
+	width: 0.01px;
+	height: 378px;
+	margin-left: 20px;
+	margin-top: 12px;
+	position: relative;
+}
+
+#u263
+{
+	position: absolute;
+	width: 920px;
+	height: 378px;
+	background-color: transparent;
+}
+
+#u263popup
+{
+	z-index: 38;
+}
+
+#u268
+{
+	z-index: 39;
+	width: 920px;
+	height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u268_img
+{
+	padding-left: 6px;
+}
+
+#u319
+{
+	z-index: 41;
+	width: 920px;
+	height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u333
+{
+	z-index: 43;
+	width: 920px;
+	height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u402
+{
+	z-index: 45;
+	width: 920px;
+	height: 378px;
+	border-style: none;
+	border-color: transparent;
+	background-color: transparent;
+	margin-right: -10000px;
+	position: relative;
+}
+
+#u402_clip
+{
+	overflow: hidden;
+	width: 920px;
+	height: 378px;
+}
+
+#u402_img
+{
+	margin-top: -41px;
+	margin-bottom: -41px;
+}
+
+#u271-4
+{
+	position: absolute;
+	width: 48px;
+	min-height: 25px;
+	-pie-box-shadow: none;
+	box-shadow: 6px 6px 8px rgba(0,0,0,0.5);
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	padding: 10px;
+	color: #FFFFFF;
+	line-height: 25px;
+	text-align: center;
+	font-size: 18px;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 333px;
+	left: 822px;
+}
+
+#u271-4popup
+{
+	z-index: 47;
+}
+
+#u270-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	padding: 10px;
+	color: #FFFFFF;
+	line-height: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 333px;
+	left: 792px;
+}
+
+#u270-4popup
+{
+	z-index: 51;
+}
+
+#u262-4
+{
+	position: absolute;
+	width: 10px;
+	min-height: 25px;
+	border-style: none;
+	border-color: transparent;
+	background-color: #000000;
+	opacity: 0.65;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=65)";
+	filter: alpha(opacity=65);
+	padding: 10px;
+	color: #FFFFFF;
+	line-height: 20px;
+	text-align: center;
+	font-family: Georgia, Palatino, Palatino Linotype, Times, Times New Roman, serif;
+	top: 333px;
+	left: 890px;
+}
+
+#u262-4popup
+{
+	z-index: 55;
+}
+
+.SSFirstButton,.SSPreviousButton,.SSNextButton,.SSLastButton,.SSSlideLink,.SSCloseButton /* slideshowFreeStyle */
+{
+	cursor: pointer;
+}
+
+.SSSlideLoading /* slideshowFreeStyle */
+{
+	background: url("../images/loading.gif") no-repeat center center;
+}
+
+#pu305
+{
+	width: 0.01px;
+	margin-left: 49px;
+	margin-top: -368px;
+}
+
+#u305
+{
+	z-index: 67;
+	width: 148px;
+	height: 44px;
+	background-color: #000000;
+	opacity: 0.5;
+	-ms-filter: "progid:DXImageTransform.Microsoft.Alpha(Opacity=50)";
+	filter: alpha(opacity=50);
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u304
+{
+	z-index: 68;
+	width: 140px;
+	border-width: 8px;
+	border-style: solid;
+	border-color: #FFFFFF;
+	background-color: transparent;
+	margin-bottom: -4px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: -4px;
+	left: -4px;
+}
+
+#u306-4
+{
+	z-index: 69;
+	display: block;
+	vertical-align: top;
+	margin-bottom: -4px;
+	position: relative;
+	margin-right: -10000px;
+	margin-top: 2px;
+	left: -4px;
+}
+
+#pu302-4
+{
+	width: 0.01px;
+	margin-left: 45px;
+}
+
+#u302-4
+{
+	z-index: 59;
+	width: 521px;
+	min-height: 134px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+}
+
+#u303-4
+{
+	z-index: 63;
+	width: 319px;
+	min-height: 134px;
+	background-color: transparent;
+	color: #FFFFFF;
+	position: relative;
+	margin-right: -10000px;
+	left: 551px;
+}
+
+body
+{
+	position: relative;
+	min-width: 960px;
+	padding-top: 36px;
+	padding-bottom: 36px;
+}
+
+#page .verticalspacer
+{
+	clear: both;
+}
+
