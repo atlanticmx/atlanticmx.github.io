@@ -1,7 +1,7 @@
 .version.motion_reel /* version checker */
 {
-	color: #0000E6;
-	background-color: #01211B;
+	color: #000017;
+	background-color: #92C61F;
 }
 
 .html
@@ -31,6 +31,8 @@
 #u150-6
 {
 	z-index: 27;
+	width: 360px;
+	min-height: 78px;
 	margin-right: -10000px;
 }
 
@@ -45,6 +47,8 @@
 #u151-4
 {
 	z-index: 33;
+	width: 446px;
+	min-height: 34px;
 }
 
 #menuu75
@@ -68,6 +72,23 @@
 	padding-bottom: 19px;
 }
 
+#u87-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u84:hover #u87-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u98
 {
 	width: 95px;
@@ -89,6 +110,23 @@
 	margin: 0px;
 }
 
+#u103-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u84.MuseMenuActive #u87-4,#u101:hover #u103-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u130
 {
 	width: 95px;
@@ -101,6 +139,23 @@
 {
 	width: 95px;
 	padding-bottom: 19px;
+}
+
+#u134-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u101.MuseMenuActive #u103-4,#u131:hover #u134-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u143
@@ -124,20 +179,30 @@
 	margin: 0px;
 }
 
-#u87,#u103,#u134,#u148
+#u148-4
 {
-	min-height: 19px;
-	min-width: 95px;
-	height: 19px;
 	width: 95px;
+	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
 }
 
-#u84:hover #u87,#u84.MuseMenuActive #u87,#u101:hover #u103,#u101.MuseMenuActive #u103,#u131:hover #u134,#u131.MuseMenuActive #u134,#u146:hover #u148,#u146.MuseMenuActive #u148
+#u131.MuseMenuActive #u134-4,#u146:hover #u148-4
 {
-	height: 19px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
 	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u146.MuseMenuActive #u148-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #pu258
@@ -149,13 +214,12 @@
 
 #u258
 {
-	z-index: 42;
+	z-index: 37;
 	width: 376px;
 	border-width: 8px;
 	border-style: solid;
 	border-color: #FFFFFF;
 	background-color: transparent;
-	padding-bottom: 0px;
 	margin-bottom: -4px;
 	position: relative;
 	margin-right: -10000px;
@@ -166,12 +230,12 @@
 #u258_position_content
 {
 	padding-top: 6px;
-	padding-bottom: 10px;
+	padding-bottom: 16px;
 }
 
 #u259-4
 {
-	z-index: 43;
+	z-index: 38;
 	display: block;
 	vertical-align: top;
 	left: -4px;
@@ -180,31 +244,31 @@
 
 #u260-10
 {
-	z-index: 47;
+	z-index: 42;
 	display: block;
 	vertical-align: top;
-	margin-left: 24px;
+	margin-left: 18px;
 	margin-top: 11px;
 	position: relative;
 }
 
-#u248
+#u429
 {
-	z-index: 37;
-	width: 385px;
+	z-index: 54;
+	width: 375px;
 	min-height: 240px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 437px;
+	left: 441px;
 }
 
-#u250
+#u421
 {
-	z-index: 38;
-	width: 385px;
+	z-index: 52;
+	width: 375px;
 	min-height: 240px;
 	border-style: none;
 	border-color: transparent;
@@ -213,31 +277,31 @@
 	margin-right: -10000px;
 }
 
-#u254
+#u423
 {
-	z-index: 40;
-	width: 386px;
+	z-index: 53;
+	width: 375px;
 	min-height: 240px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 436px;
+	left: 441px;
 }
 
-#pu250,#pu256
+#pu421,#pu427
 {
 	width: 0.01px;
 	margin-left: 73px;
-	margin-top: 46px;
+	margin-top: 48px;
 }
 
-#u256
+#u427
 {
-	z-index: 41;
-	width: 384px;
-	min-height: 239px;
+	z-index: 56;
+	width: 375px;
+	min-height: 240px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
@@ -245,17 +309,17 @@
 	margin-right: -10000px;
 }
 
-#u252
+#u425
 {
-	z-index: 39;
-	width: 386px;
-	min-height: 239px;
+	z-index: 55;
+	width: 375px;
+	min-height: 240px;
 	border-style: none;
 	border-color: transparent;
 	background-color: transparent;
 	position: relative;
 	margin-right: -10000px;
-	left: 436px;
+	left: 441px;
 }
 
 body

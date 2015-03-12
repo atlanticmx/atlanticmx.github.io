@@ -1,73 +1,52 @@
-<manifest alg="2" build="1176" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1425335571168">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426120623004">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
-    <file name="master_a-master.css" crc="50765745" ref="contact:about:index:motion-reel"/>
-    <file name="contact.css" crc="4291001411" ref="contact"/>
-    <file name="about.css" crc="99477384" ref="about"/>
-    <file name="index.css" crc="402268965" ref="index"/>
-    <file name="motion-reel.css" crc="3858833691" ref="motion-reel"/>
+    <file name="master_a-master.css" crc="3982283729" ref="motion-reel:contact:index:about"/>
+    <file name="motion-reel.css" crc="395494943" ref="motion-reel"/>
+    <file name="contact.css" crc="4228869177" ref="contact"/>
+    <file name="index.css" crc="148428992" ref="index"/>
+    <file name="about.css" crc="202076708" ref="about"/>
   </folder>
   <folder name="scripts">
-    <file name="jquery-1.8.3.min.js" crc="221936890" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
-    <file name="museutils.js" crc="3793461109" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
-    <file name="jquery.watch.js" crc="3766403489" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
-    <file name="jquery.musemenu.js" crc="492415246" ref="index:motion-reel:about:contact"/>
+    <file name="jquery-1.8.3.min.js" crc="364326742" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
+    <file name="museutils.js" crc="479751881" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
+    <file name="jquery.watch.js" crc="4232581965" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
+    <file name="jquery.musemenu.js" crc="4120181458" ref="index:motion-reel:about:contact"/>
     <file name="html5shiv.js" crc="4241844378" ref="index:motion-reel:about:contact"/>
-    <file name="webpro.js" crc="4263367560" ref="about"/>
-    <file name="musewpslideshow.js" crc="126372691" ref="about"/>
-    <file name="jquery.museoverlay.js" crc="3946374898" ref="about"/>
-    <file name="touchswipe.js" crc="3796284560" ref="about"/>
+    <file name="pie.js" crc="3827607177" ref="about"/>
+    <file name="webpro.js" crc="3930024250" ref="about"/>
+    <file name="musewpslideshow.js" crc="4014282895" ref="about"/>
+    <file name="jquery.museoverlay.js" crc="4213181908" ref="about"/>
+    <file name="touchswipe.js" crc="4151298246" ref="about"/>
   </folder>
   <folder name="images">
-    <file name="u150-6.png" crc="386975329" ref="index:motion-reel:about:contact"/>
-    <file name="u151-4.png" crc="407981702" ref="index:motion-reel:about:contact"/>
-    <file name="blank.gif" crc="4208392903" ref="index:motion-reel:about:contact"/>
-    <file name="u87.png" crc="3942492772" ref="index:motion-reel:about:contact"/>
-    <file name="u87-r.png" crc="376914725" ref="index:motion-reel:about:contact"/>
-    <file name="u87-a.png" crc="105321130" ref="index:motion-reel:about:contact"/>
-    <file name="u103.png" crc="443661296" ref="index:motion-reel:about:contact"/>
-    <file name="u103-r.png" crc="4196518852" ref="index:motion-reel:about:contact"/>
-    <file name="u103-a.png" crc="3782361348" ref="index:motion-reel:about:contact"/>
-    <file name="u134.png" crc="223169487" ref="index:motion-reel:about:contact"/>
-    <file name="u134-r.png" crc="4082392818" ref="index:motion-reel:about:contact"/>
-    <file name="u134-a.png" crc="3761273232" ref="index:motion-reel:about:contact"/>
-    <file name="u148.png" crc="130566323" ref="index:motion-reel:about:contact"/>
-    <file name="u148-r.png" crc="4220844100" ref="index:motion-reel:about:contact"/>
-    <file name="u148-a.png" crc="163156392" ref="index:motion-reel:about:contact"/>
     <file name="u259-4.png" crc="132967159" ref="motion-reel"/>
-    <file name="u260-10.png" crc="4137258617" ref="motion-reel"/>
+    <file name="u260-10.png" crc="4200560490" ref="motion-reel"/>
     <file name="20140907_0170-20-crop-u268.jpg" crc="4151292035" ref="about"/>
+    <file name="blank.gif" crc="4208392903" ref="about"/>
     <file name="010713_0115-crop-u319.jpg" crc="4262442362" ref="about"/>
     <file name="dylanblue-crop-u333.jpg" crc="91161442" ref="about"/>
     <file name="5ambeach-0205.jpg" crc="509003159" ref="about"/>
     <file name="loading.gif" crc="3815509949" ref="about"/>
     <file name="u306-4.png" crc="151852291" ref="about"/>
     <file name="u181-4.png" crc="367298375" ref="contact"/>
-    <file name="u153-4.png" crc="4022112683" ref="contact"/>
-    <file name="u160-4.png" crc="3933941796" ref="contact"/>
-    <file name="u154-4.png" crc="501464493" ref="contact"/>
-    <file name="u159-4.png" crc="3764334275" ref="contact"/>
-    <file name="u155-4.png" crc="4142248663" ref="contact"/>
-    <file name="u158-4.png" crc="3765713700" ref="contact"/>
-    <file name="u156-4.png" crc="52582388" ref="contact"/>
-    <file name="u157-4.png" crc="4105555175" ref="contact"/>
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="322953480" ref="tablet>index"/>
+      <file name="still-frames.css" crc="322953480" ref="tablet>still-frames"/>
       <file name="contact.css" crc="322953480" ref="tablet>contact"/>
       <file name="motion-reel.css" crc="322953480" ref="tablet>motion-reel"/>
-      <file name="still-frames.css" crc="322953480" ref="tablet>still-frames"/>
+      <file name="index.css" crc="322953480" ref="tablet>index"/>
       <file name="about.css" crc="322953480" ref="tablet>about"/>
     </folder>
-    <file name="index.html" crc="420793483" mt="1424143376672" redirect="false"/>
-    <file name="motion-reel.html" crc="169182872" mt="1424143376802" redirect="false"/>
-    <file name="still-frames.html" crc="123206336" mt="1424653597949" redirect="false"/>
-    <file name="about.html" crc="188122373" mt="1424143376927" redirect="false"/>
-    <file name="contact.html" crc="3991876131" mt="1424143377013" redirect="false"/>
+    <file name="index.html" crc="4205973409" mt="1424143376672" redirect="false"/>
+    <file name="motion-reel.html" crc="3863576337" mt="1424143376802" redirect="false"/>
+    <file name="still-frames.html" crc="3896096378" mt="1424653597949" redirect="false"/>
+    <file name="about.html" crc="3815696912" mt="1424143376927" redirect="false"/>
+    <file name="contact.html" crc="4203981387" mt="1424143377013" redirect="false"/>
   </folder>
-  <file name="index.html" crc="3770320472" mt="1424653604653" redirect="true"/>
-  <file name="motion-reel.html" crc="3842173206" mt="1424144227275" redirect="true"/>
-  <file name="about.html" crc="214541368" mt="1425335032789" redirect="true"/>
-  <file name="contact.html" crc="3898626893" mt="1425334943017" redirect="true"/>
+  <file name="index.html" crc="485415388" mt="1426120480844" redirect="true"/>
+  <file name="motion-reel.html" crc="21187072" mt="1426120403391" redirect="true"/>
+  <file name="about.html" crc="4208339326" mt="1426120322988" redirect="true"/>
+  <file name="contact.html" crc="66323988" mt="1426116677397" redirect="true"/>
 </manifest>

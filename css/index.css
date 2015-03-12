@@ -1,7 +1,7 @@
 .version.index /* version checker */
 {
-	color: #000017;
-	background-color: #FA2325;
+	color: #000008;
+	background-color: #D8D8C0;
 }
 
 .html
@@ -31,6 +31,8 @@
 #u150-6
 {
 	z-index: 27;
+	width: 360px;
+	min-height: 78px;
 	margin-right: -10000px;
 }
 
@@ -45,6 +47,8 @@
 #u151-4
 {
 	z-index: 33;
+	width: 446px;
+	min-height: 34px;
 }
 
 #menuu75
@@ -68,6 +72,23 @@
 	padding-bottom: 19px;
 }
 
+#u87-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u84:hover #u87-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u98
 {
 	width: 95px;
@@ -89,6 +110,23 @@
 	margin: 0px;
 }
 
+#u103-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u84.MuseMenuActive #u87-4,#u101:hover #u103-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
 #u130
 {
 	width: 95px;
@@ -101,6 +139,23 @@
 {
 	width: 95px;
 	padding-bottom: 19px;
+}
+
+#u134-4
+{
+	width: 95px;
+	min-height: 19px;
+	margin-right: -10000px;
+	top: 9px;
+}
+
+#u101.MuseMenuActive #u103-4,#u131:hover #u134-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #u143
@@ -124,20 +179,30 @@
 	margin: 0px;
 }
 
-#u87,#u103,#u134,#u148
+#u148-4
 {
-	min-height: 19px;
-	min-width: 95px;
-	height: 19px;
 	width: 95px;
+	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
 }
 
-#u84:hover #u87,#u84.MuseMenuActive #u87,#u84 #u87,#u101:hover #u103,#u101.MuseMenuActive #u103,#u101 #u103,#u131:hover #u134,#u131.MuseMenuActive #u134,#u131 #u134,#u146:hover #u148,#u146.MuseMenuActive #u148,#u146 #u148
+#u131.MuseMenuActive #u134-4,#u146:hover #u148-4
 {
-	height: 19px;
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
 	width: 95px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u146.MuseMenuActive #u148-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 95px;
+	margin: 0px -10000px 0px 0px;
 }
 
 #pu224
