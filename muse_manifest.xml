@@ -1,11 +1,11 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426120623004">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426178596863">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="3982283729" ref="motion-reel:contact:index:about"/>
-    <file name="motion-reel.css" crc="395494943" ref="motion-reel"/>
-    <file name="contact.css" crc="4228869177" ref="contact"/>
-    <file name="index.css" crc="148428992" ref="index"/>
-    <file name="about.css" crc="202076708" ref="about"/>
+    <file name="motion-reel.css" crc="4244804996" ref="motion-reel"/>
+    <file name="contact.css" crc="522327934" ref="contact"/>
+    <file name="index.css" crc="143644048" ref="index"/>
+    <file name="about.css" crc="466054449" ref="about"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="364326742" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
@@ -45,8 +45,8 @@
     <file name="about.html" crc="3815696912" mt="1424143376927" redirect="false"/>
     <file name="contact.html" crc="4203981387" mt="1424143377013" redirect="false"/>
   </folder>
-  <file name="index.html" crc="485415388" mt="1426120480844" redirect="true"/>
-  <file name="motion-reel.html" crc="21187072" mt="1426120403391" redirect="true"/>
-  <file name="about.html" crc="4208339326" mt="1426120322988" redirect="true"/>
-  <file name="contact.html" crc="66323988" mt="1426116677397" redirect="true"/>
+  <file name="index.html" crc="485415388" mt="1426178179136" redirect="true"/>
+  <file name="motion-reel.html" crc="21187072" mt="1426178179136" redirect="true"/>
+  <file name="about.html" crc="4208339326" mt="1426178179136" redirect="true"/>
+  <file name="contact.html" crc="4180363856" mt="1426178434359" redirect="true"/>
 </manifest>

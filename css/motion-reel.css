@@ -1,7 +1,7 @@
 .version.motion_reel /* version checker */
 {
-	color: #000017;
-	background-color: #92C61F;
+	color: #0000FD;
+	background-color: #029584;
 }
 
 .html
@@ -31,7 +31,7 @@
 #u150-6
 {
 	z-index: 27;
-	width: 360px;
+	width: 469px;
 	min-height: 78px;
 	margin-right: -10000px;
 }
