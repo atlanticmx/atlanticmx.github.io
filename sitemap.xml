@@ -73,6 +73,12 @@
     <priority>0.5</priority>
   </url>
   <url>
+    <loc>http://www.andrewrottkamp.rocks/images/20140417_0305.jpg</loc>
+    <lastmod>2015-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
     <loc>http://www.andrewrottkamp.rocks/images/5ambeach-0125-crop-u442.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
@@ -97,31 +103,37 @@
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.andrewrottkamp.rocks/images/012513_0314160x45.jpg</loc>
+    <loc>http://www.andrewrottkamp.rocks/images/012513_0314174x55.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.andrewrottkamp.rocks/images/012613_028060x45.jpg</loc>
+    <loc>http://www.andrewrottkamp.rocks/images/012613_028074x55.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.andrewrottkamp.rocks/images/010313_012760x45.jpg</loc>
+    <loc>http://www.andrewrottkamp.rocks/images/010313_012774x55.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.andrewrottkamp.rocks/images/010713_011560x45.jpg</loc>
+    <loc>http://www.andrewrottkamp.rocks/images/010713_011574x55.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
   <url>
-    <loc>http://www.andrewrottkamp.rocks/images/010513_0045_160x45.jpg</loc>
+    <loc>http://www.andrewrottkamp.rocks/images/010513_0045_174x55.jpg</loc>
+    <lastmod>2015-03-16</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+  </url>
+  <url>
+    <loc>http://www.andrewrottkamp.rocks/images/20140417_0305-crop-u665.jpg</loc>
     <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
@@ -152,7 +164,7 @@
   </url>
   <url>
     <loc>http://www.andrewrottkamp.rocks/index.html</loc>
-    <lastmod>2015-03-13</lastmod>
+    <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>
@@ -170,7 +182,7 @@
   </url>
   <url>
     <loc>http://www.andrewrottkamp.rocks/contact.html</loc>
-    <lastmod>2015-03-13</lastmod>
+    <lastmod>2015-03-16</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
   </url>

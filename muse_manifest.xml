@@ -1,11 +1,11 @@
-<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426535482715">
+<manifest alg="2" build="44" opt="true" iceEnabled="true" iceMarkupVersion="2" exportTarget="other" resolutions="1x" timestamp="1426539544861">
   <folder name="css">
     <file name="site_global.css" crc="422415861"/>
     <file name="master_a-master.css" crc="4106851009" ref="contact:about:motion-reel:index"/>
-    <file name="contact.css" crc="529629873" ref="contact"/>
-    <file name="about.css" crc="529987631" ref="about"/>
-    <file name="motion-reel.css" crc="110064972" ref="motion-reel"/>
-    <file name="index.css" crc="521909331" ref="index"/>
+    <file name="contact.css" crc="3853166441" ref="contact"/>
+    <file name="about.css" crc="320739887" ref="about"/>
+    <file name="motion-reel.css" crc="3953693365" ref="motion-reel"/>
+    <file name="index.css" crc="3899299315" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="364326742" ref="tablet>index:tablet>motion-reel:tablet>still-frames:tablet>about:tablet>contact:index:motion-reel:about:contact"/>
@@ -32,15 +32,17 @@
     <file name="010313_0127-crop-u564.jpg" crc="447953610" ref="about"/>
     <file name="010713_0115-crop-u579.jpg" crc="3922524566" ref="about"/>
     <file name="010513_0045_1-crop-u594.jpg" crc="3771650287" ref="about"/>
-    <file name="5ambeach-0125-crop-u442.jpg" crc="4178488399" ref="about"/>
-    <file name="5ambeach-0205-crop-u502.jpg" crc="4064531583" ref="about"/>
-    <file name="5ambeach-0311-crop-u511.jpg" crc="3961404546" ref="about"/>
-    <file name="sandnsky2-0165-crop-u520.jpg" crc="3845190830" ref="about"/>
-    <file name="012513_0314160x45.jpg" crc="525396505" ref="about"/>
-    <file name="012613_028060x45.jpg" crc="3800559423" ref="about"/>
-    <file name="010313_012760x45.jpg" crc="408911135" ref="about"/>
-    <file name="010713_011560x45.jpg" crc="3919051857" ref="about"/>
-    <file name="010513_0045_160x45.jpg" crc="4112444972" ref="about"/>
+    <file name="20140417_0305.jpg" crc="4145213142" ref="about"/>
+    <file name="5ambeach-0125-crop-u442.jpg" crc="4231393046" ref="about"/>
+    <file name="5ambeach-0205-crop-u502.jpg" crc="3882906186" ref="about"/>
+    <file name="5ambeach-0311-crop-u511.jpg" crc="4222545184" ref="about"/>
+    <file name="sandnsky2-0165-crop-u520.jpg" crc="145600496" ref="about"/>
+    <file name="012513_0314174x55.jpg" crc="4154366254" ref="about"/>
+    <file name="012613_028074x55.jpg" crc="4114507501" ref="about"/>
+    <file name="010313_012774x55.jpg" crc="180652728" ref="about"/>
+    <file name="010713_011574x55.jpg" crc="3767083266" ref="about"/>
+    <file name="010513_0045_174x55.jpg" crc="3867980083" ref="about"/>
+    <file name="20140417_0305-crop-u665.jpg" crc="72667800" ref="about"/>
     <file name="loading.gif" crc="3815509949" ref="about"/>
     <file name="u306-4.png" crc="151852291" ref="about"/>
     <file name="u181-4.png" crc="367298375" ref="contact"/>
@@ -59,8 +61,8 @@
     <file name="about.html" crc="3815696912" mt="1424143376927" redirect="false"/>
     <file name="contact.html" crc="4203981387" mt="1424143377013" redirect="false"/>
   </folder>
-  <file name="index.html" crc="448369729" mt="1426264226159" redirect="true"/>
-  <file name="motion-reel.html" crc="4288050577" mt="1426535440952" redirect="true"/>
-  <file name="about.html" crc="400399150" mt="1426533301498" redirect="true"/>
-  <file name="contact.html" crc="108517384" mt="1426264226159" redirect="true"/>
+  <file name="index.html" crc="448369729" mt="1426539519066" redirect="true"/>
+  <file name="motion-reel.html" crc="4288050577" mt="1426539519066" redirect="true"/>
+  <file name="about.html" crc="4168123352" mt="1426539519066" redirect="true"/>
+  <file name="contact.html" crc="108517384" mt="1426539519066" redirect="true"/>
 </manifest>
