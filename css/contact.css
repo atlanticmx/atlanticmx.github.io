@@ -1,7 +1,7 @@
 .version.contact /* version checker */
 {
 	color: #00001F;
-	background-color: #22177E;
+	background-color: #9182B1;
 }
 
 .html
@@ -23,17 +23,9 @@
 	margin-right: auto;
 }
 
-#pu150-6
+#ppu151-4
 {
 	width: 0.01px;
-}
-
-#u150-6
-{
-	z-index: 27;
-	width: 469px;
-	min-height: 78px;
-	margin-right: -10000px;
 }
 
 #pu151-4
@@ -54,27 +46,34 @@
 #menuu75
 {
 	z-index: 2;
-	width: 386px;
-	margin-left: 60px;
+	width: 357px;
+	margin-left: 89px;
 	margin-top: 4px;
 }
 
 #u83
 {
-	width: 95px;
+	width: 87px;
 	min-height: 38px;
 	margin-right: -10000px;
 }
 
 #u84
 {
-	width: 95px;
+	width: 87px;
 	padding-bottom: 19px;
+}
+
+#u84.MuseMenuActive
+{
+	width: 87px;
+	min-height: 0px;
+	margin: 0px;
 }
 
 #u87-4
 {
-	width: 95px;
+	width: 87px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
@@ -85,65 +84,74 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 95px;
+	width: 87px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u84.MuseMenuActive #u87-4
+{
+	padding-top: 0px;
+	padding-bottom: 0px;
+	min-height: 19px;
+	width: 87px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u98
 {
-	width: 95px;
+	width: 88px;
 	min-height: 38px;
 	margin-right: -10000px;
-	left: 97px;
+	left: 89px;
 }
 
 #u101
 {
-	width: 95px;
+	width: 88px;
 	padding-bottom: 19px;
 }
 
-#u84.MuseMenuActive,#u101:hover
+#u101:hover
 {
-	width: 95px;
+	width: 88px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u103-4
 {
-	width: 95px;
+	width: 88px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
 }
 
-#u84.MuseMenuActive #u87-4,#u101:hover #u103-4
+#u101:hover #u103-4
 {
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 95px;
+	width: 88px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u130
 {
-	width: 95px;
+	width: 88px;
 	min-height: 38px;
 	margin-right: -10000px;
-	left: 194px;
+	left: 179px;
 }
 
 #u131
 {
-	width: 95px;
+	width: 88px;
 	padding-bottom: 19px;
 }
 
 #u134-4
 {
-	width: 95px;
+	width: 88px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
@@ -154,34 +162,34 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 95px;
+	width: 88px;
 	margin: 0px -10000px 0px 0px;
 }
 
 #u143
 {
-	width: 95px;
+	width: 88px;
 	min-height: 38px;
 	margin-right: -10000px;
-	left: 291px;
+	left: 269px;
 }
 
 #u146
 {
-	width: 95px;
+	width: 88px;
 	padding-bottom: 19px;
 }
 
 #u101.MuseMenuActive,#u131.MuseMenuActive,#u146.MuseMenuActive
 {
-	width: 95px;
+	width: 88px;
 	min-height: 0px;
 	margin: 0px;
 }
 
 #u148-4
 {
-	width: 95px;
+	width: 88px;
 	min-height: 19px;
 	margin-right: -10000px;
 	top: 9px;
@@ -192,7 +200,7 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 95px;
+	width: 88px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -201,7 +209,47 @@
 	padding-top: 0px;
 	padding-bottom: 0px;
 	min-height: 19px;
-	width: 95px;
+	width: 88px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#u150-6
+{
+	z-index: 27;
+	width: 469px;
+	min-height: 99px;
+	margin-right: -10000px;
+}
+
+#buttonu435
+{
+	z-index: 37;
+	width: 417px;
+	height: 83px;
+	margin-right: -10000px;
+}
+
+#buttonu435:hover
+{
+	width: 417px;
+	height: 83px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu435:active
+{
+	width: 417px;
+	height: 83px;
+	min-height: 0px;
+	margin: 0px -10000px 0px 0px;
+}
+
+#buttonu435.ButtonSelected
+{
+	width: 417px;
+	height: 83px;
+	min-height: 0px;
 	margin: 0px -10000px 0px 0px;
 }
 
@@ -209,12 +257,12 @@
 {
 	width: 0.01px;
 	margin-left: 48px;
-	margin-top: 20px;
+	margin-top: 7px;
 }
 
 #u181-4
 {
-	z-index: 69;
+	z-index: 70;
 	display: block;
 	vertical-align: top;
 	position: relative;
@@ -225,7 +273,7 @@
 
 #u182
 {
-	z-index: 73;
+	z-index: 74;
 	width: 170px;
 	height: 32px;
 	border-width: 8px;
@@ -248,7 +296,7 @@
 
 #u153-4
 {
-	z-index: 37;
+	z-index: 38;
 	width: 190px;
 	min-height: 39px;
 	background-color: transparent;
@@ -265,7 +313,7 @@
 
 #u160-4
 {
-	z-index: 65;
+	z-index: 66;
 	width: 382px;
 	min-height: 40px;
 	background-color: transparent;
@@ -282,7 +330,7 @@
 
 #u154-4
 {
-	z-index: 41;
+	z-index: 42;
 	width: 190px;
 	min-height: 40px;
 	background-color: transparent;
@@ -299,7 +347,7 @@
 
 #u159-4
 {
-	z-index: 61;
+	z-index: 62;
 	width: 382px;
 	min-height: 40px;
 	background-color: transparent;
@@ -316,7 +364,7 @@
 
 #u155-4
 {
-	z-index: 45;
+	z-index: 46;
 	width: 190px;
 	min-height: 40px;
 	background-color: transparent;
@@ -333,7 +381,7 @@
 
 #u158-4
 {
-	z-index: 57;
+	z-index: 58;
 	width: 382px;
 	min-height: 40px;
 	background-color: transparent;
@@ -356,7 +404,7 @@
 
 #u156-4
 {
-	z-index: 49;
+	z-index: 50;
 	width: 190px;
 	min-height: 40px;
 	background-color: transparent;
@@ -373,7 +421,7 @@
 
 #u157-4
 {
-	z-index: 53;
+	z-index: 54;
 	width: 382px;
 	min-height: 40px;
 	background-color: transparent;

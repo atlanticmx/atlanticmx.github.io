@@ -1,15 +1,3 @@
-#u150-6
-{
-	background-color: transparent;
-	letter-spacing: 18px;
-	color: #F0F0F0;
-	font-size: 55px;
-	line-height: 43px;
-	font-family: abel, sans-serif;
-	font-weight: 400;
-	position: relative;
-}
-
 #u151-4
 {
 	background-color: transparent;
@@ -154,5 +142,43 @@
 .MenuItem /* unifiedNavBar */
 {
 	cursor: pointer;
+}
+
+#u150-6
+{
+	background-color: transparent;
+	letter-spacing: 18px;
+	color: #F0F0F0;
+	font-size: 55px;
+	line-height: 43px;
+	font-family: abel, sans-serif;
+	font-weight: 400;
+	position: relative;
+}
+
+#buttonu435
+{
+	border-color: #787878;
+	background-color: transparent;
+	border-radius: 10px;
+	position: relative;
+}
+
+#buttonu435:hover
+{
+	background-color: transparent;
+	border-radius: 10px;
+}
+
+#buttonu435:active
+{
+	background-color: transparent;
+	border-radius: 0px;
+}
+
+#buttonu435.ButtonSelected
+{
+	background-color: transparent;
+	border-radius: 10px;
 }
 
