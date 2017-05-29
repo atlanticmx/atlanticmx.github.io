@@ -1,20 +1,24 @@
-<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andrewrottkamp.com" resolutions="1x" timestamp="1495993652644">
+<manifest alg="2" build="2017.0.2.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andrewrottkamp.com" resolutions="1x" timestamp="1496080532030">
   <folder name="css">
     <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="4203397824" ref="photo:index:video:contact"/>
-    <file name="photo.css" crc="499123438" ref="photo"/>
-    <file name="index.css" crc="3782188259" ref="index"/>
-    <file name="video.css" crc="4134919905" ref="video"/>
-    <file name="contact.css" crc="4109263244" ref="contact"/>
+    <file name="master_a-master.css" crc="314046355" ref="photo:index:video:contact"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="photo:index:video:contact"/>
+    <file name="photo.css" crc="4056148961" ref="photo"/>
+    <file name="nomq_photo.css" crc="3782796566" ref="photo"/>
+    <file name="index.css" crc="4108742579" ref="index"/>
+    <file name="nomq_index.css" crc="3970077764" ref="index"/>
+    <file name="video.css" crc="127712008" ref="video"/>
+    <file name="nomq_video.css" crc="4291133446" ref="video"/>
+    <file name="contact.css" crc="3894505864" ref="contact"/>
+    <file name="nomq_contact.css" crc="3928809079" ref="contact"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="index:video:photo:contact"/>
     <file name="museutils.js" crc="4232573551" ref="index:video:photo:contact"/>
     <file name="whatinput.js" crc="86476730" ref="index:video:photo:contact"/>
     <file name="museconfig.js" crc="4152223963" ref="index:video:photo:contact"/>
-    <file name="jquery.musemenu.js" crc="38860304" ref="index:video:photo:contact"/>
     <file name="jquery.watch.js" crc="3844535323" ref="index:video:photo:contact"/>
-    <file name="html5shiv.js" crc="4241844378" ref="index:video:photo:contact"/>
+    <file name="jquery.museresponsive.js" crc="433634197" ref="index:video:photo:contact"/>
     <file name="require.js" crc="4234670167" ref="index:video:photo:contact"/>
     <file name="webpro.js" crc="3770351119" ref="photo"/>
     <file name="musewpslideshow.js" crc="4244742588" ref="photo"/>
@@ -25,7 +29,7 @@
     <file name="xanthe-27.jpg" crc="105954987" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="blank.gif" crc="4208392903" ref="photo"/>
+    <file name="blank.gif" crc="4208392903" ref="photo:contact"/>
     <file name="xanthe-33.jpg" crc="12365376" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
@@ -43,20 +47,26 @@
     </file>
     <file name="xanthe-2768x45.jpg" crc="3879493534" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="xanthe-3368x45.jpg" crc="3960222126" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="xanthe-3168x45.jpg" crc="125249808" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="xanthe-5268x45.jpg" crc="288643088" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="xanthe-268x45.jpg" crc="4148254916" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="xanthe-2368x45.jpg" crc="492545505" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
       <caption webpage="photo" alt=""/>
     </file>
     <file name="loading.gif" crc="3815509949" ref="photo"/>
@@ -92,6 +102,7 @@
     </file>
     <file name="bluebackpackfullfrontal145x45.jpg" crc="368890349" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
     </file>
     <file name="blackbackpackdetail1080-crop-u3741.jpg" crc="3928145059" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
@@ -101,10 +112,65 @@
     </file>
     <file name="20151211-dsc_037645x45.jpg" crc="95039825" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-27400x267.jpg" crc="175038176" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-33322x215.jpg" crc="4267058323" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-31-crop-u3046.jpg" crc="3855486896" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-52-crop-u3073.jpg" crc="3856567496" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-2-crop-u3115.jpg" crc="3826902529" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="xanthe-23322x215.jpg" crc="3958352262" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romia_niagra_2322x215.jpg" crc="4002759229" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romiawesleylogo321x201.jpg" crc="3836298327" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romia_niagra_1321x214.jpg" crc="104968286" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="bluebackpackfullfrontal1-crop-u3383.jpg" crc="305910691" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="blackbackpackdetail1080321x166.jpg" crc="223704080" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="20151212-dsc_04083321x218.jpg" crc="3820811918" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="20151211-dsc_0376-crop-u3764.jpg" crc="451041469" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romia_niagra_2-crop-u39892.jpg" crc="3798630687" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romiawesleylogo-crop-u36862.jpg" crc="4212225043" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romia_niagra_1-crop-u39692.jpg" crc="3849932985" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="blackbackpackdetail1080-crop-u37412.jpg" crc="3928145059" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="20151212-dsc_04083-crop-u37212.jpg" crc="3939865561" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
     </file>
   </folder>
-  <file name="index.html" crc="149553594" seo="true" mt="1493503326343" redirect="true"/>
-  <file name="video.html" crc="4078072348" seo="true" mt="1495993128521" redirect="true"/>
-  <file name="photo.html" crc="422529931" seo="true" mt="1495993565017" redirect="true"/>
-  <file name="contact.html" crc="4105541185" seo="true" mt="1493499765137" redirect="true"/>
+  <file name="index.html" crc="373114021" seo="true" mt="1496078023478" redirect="true"/>
+  <file name="video.html" crc="4258656575" seo="true" mt="1496078493960" redirect="true"/>
+  <file name="photo.html" crc="112502821" seo="true" mt="1496080327091" redirect="true"/>
+  <file name="contact.html" crc="3853144081" seo="true" mt="1496080483187" redirect="true"/>
 </manifest>
