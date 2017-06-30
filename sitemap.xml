@@ -2,21 +2,24 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
     <loc>http://andrewrottkamp.com/index.html</loc>
-    <lastmod>2017-05-29</lastmod>
+    <lastmod>2017-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://andrewrottkamp.com/phone/index.html"/>
   </url>
   <url>
     <loc>http://andrewrottkamp.com/video.html</loc>
-    <lastmod>2017-05-29</lastmod>
+    <lastmod>2017-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://andrewrottkamp.com/phone/video.html"/>
   </url>
   <url>
     <loc>http://andrewrottkamp.com/photo.html</loc>
-    <lastmod>2017-05-29</lastmod>
+    <lastmod>2017-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://andrewrottkamp.com/phone/photo.html"/>
     <image:image>
       <image:loc>http://andrewrottkamp.com/images/xanthe-27.jpg</image:loc>
     </image:image>
@@ -96,21 +99,6 @@
       <image:loc>http://andrewrottkamp.com/images/20151211-dsc_037645x45.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romia_niagra_2-crop-u39892.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romiawesleylogo-crop-u36862.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romia_niagra_1-crop-u39692.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andrewrottkamp.com/images/blackbackpackdetail1080-crop-u37412.jpg</image:loc>
-    </image:image>
-    <image:image>
-      <image:loc>http://andrewrottkamp.com/images/20151212-dsc_04083-crop-u37212.jpg</image:loc>
-    </image:image>
-    <image:image>
       <image:loc>http://andrewrottkamp.com/images/xanthe-27400x267.jpg</image:loc>
     </image:image>
     <image:image>
@@ -150,25 +138,26 @@
       <image:loc>http://andrewrottkamp.com/images/20151211-dsc_0376-crop-u3764.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romia_niagra_2-crop-u39893.jpg</image:loc>
+      <image:loc>http://andrewrottkamp.com/images/romia_niagra_2-crop-u39892.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romiawesleylogo-crop-u36863.jpg</image:loc>
+      <image:loc>http://andrewrottkamp.com/images/romiawesleylogo-crop-u36862.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/romia_niagra_1-crop-u39693.jpg</image:loc>
+      <image:loc>http://andrewrottkamp.com/images/romia_niagra_1-crop-u39692.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/blackbackpackdetail1080-crop-u37413.jpg</image:loc>
+      <image:loc>http://andrewrottkamp.com/images/blackbackpackdetail1080-crop-u37412.jpg</image:loc>
     </image:image>
     <image:image>
-      <image:loc>http://andrewrottkamp.com/images/20151212-dsc_04083-crop-u37213.jpg</image:loc>
+      <image:loc>http://andrewrottkamp.com/images/20151212-dsc_04083-crop-u37212.jpg</image:loc>
     </image:image>
   </url>
   <url>
     <loc>http://andrewrottkamp.com/contact.html</loc>
-    <lastmod>2017-05-29</lastmod>
+    <lastmod>2017-06-29</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://andrewrottkamp.com/phone/contact.html"/>
   </url>
 </urlset>
