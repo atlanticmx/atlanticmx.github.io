@@ -1,28 +1,28 @@
-<manifest alg="2" build="2017.0.3.363" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andrewrottkamp.com" resolutions="1x" timestamp="1499023881243">
+<manifest alg="2" build="2018.0.0.379" opt="true" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="andrewrottkamp.com" resolutions="1x" timestamp="1514657158187">
   <folder name="css">
-    <file name="site_global.css" crc="443350757"/>
-    <file name="master_a-master.css" crc="3980922570" ref="video:photo:index:contact"/>
-    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="video:photo:index:contact"/>
-    <file name="video.css" crc="4094192684" ref="video"/>
-    <file name="nomq_video.css" crc="3861001919" ref="video"/>
-    <file name="photo.css" crc="296066820" ref="photo"/>
-    <file name="nomq_photo.css" crc="4093456495" ref="photo"/>
-    <file name="index.css" crc="473528512" ref="index"/>
-    <file name="contact.css" crc="4268001268" ref="contact"/>
-    <file name="nomq_contact.css" crc="4201667750" ref="contact"/>
+    <file name="site_global.css" crc="444006867"/>
+    <file name="master_a-master.css" crc="3940721190" ref="video:contact:photo:index"/>
+    <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="video:contact:photo:index"/>
+    <file name="video.css" crc="3810014627" ref="video"/>
+    <file name="nomq_video.css" crc="4037683813" ref="video"/>
+    <file name="contact.css" crc="3939093037" ref="contact"/>
+    <file name="nomq_contact.css" crc="3927139549" ref="contact"/>
+    <file name="photo.css" crc="493276679" ref="photo"/>
+    <file name="nomq_photo.css" crc="137990157" ref="photo"/>
+    <file name="index.css" crc="304582913" ref="index"/>
   </folder>
   <folder name="scripts">
     <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
-    <file name="museutils.js" crc="46400467" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
+    <file name="museutils.js" crc="3803043152" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
-    <file name="museconfig.js" crc="4273287925" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
-    <file name="jquery.watch.js" crc="4178585335" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
-    <file name="require.js" crc="85721165" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
-    <file name="jquery.museresponsive.js" crc="52098982" ref="video:photo:contact"/>
-    <file name="webpro.js" crc="4152390327" ref="photo"/>
-    <file name="musewpslideshow.js" crc="380562115" ref="photo"/>
-    <file name="jquery.museoverlay.js" crc="3986278607" ref="photo"/>
-    <file name="touchswipe.js" crc="4228958816" ref="photo"/>
+    <file name="museconfig.js" crc="4153641093" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
+    <file name="jquery.watch.js" crc="99325471" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
+    <file name="require.js" crc="4157109226" ref="phone>index:phone>video:phone>photo:phone>contact:index:video:photo:contact"/>
+    <file name="jquery.museresponsive.js" crc="3955820958" ref="video:photo:contact"/>
+    <file name="webpro.js" crc="242022427" ref="photo"/>
+    <file name="musewpslideshow.js" crc="457073769" ref="photo"/>
+    <file name="jquery.museoverlay.js" crc="483674903" ref="photo"/>
+    <file name="touchswipe.js" crc="4066113679" ref="photo"/>
   </folder>
   <folder name="images">
     <file name="xanthe-27.jpg" crc="105954987" seo="true" ref="photo">
@@ -90,13 +90,13 @@
     <file name="20151211-dsc_0376.jpg" crc="3925627585" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="romia_niagra_2-crop-u3989.jpg" crc="3798630687" seo="true" ref="photo">
+    <file name="romia_niagra_2-crop-u3989.jpg" crc="405408726" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
     <file name="romiawesleylogo-crop-u3686.jpg" crc="4212225043" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="romia_niagra_1-crop-u3969.jpg" crc="3849932985" seo="true" ref="photo">
+    <file name="romia_niagra_1-crop-u3969.jpg" crc="3781309024" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
     <file name="bluebackpackfullfrontal145x45.jpg" crc="368890349" seo="true" ref="photo">
@@ -152,39 +152,39 @@
     <file name="20151211-dsc_0376-crop-u3764.jpg" crc="451041469" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
-    <file name="romia_niagra_2-crop-u39892.jpg" crc="3798630687" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
-    </file>
-    <file name="romiawesleylogo-crop-u36862.jpg" crc="4212225043" seo="true" ref="photo">
-      <caption webpage="photo" alt=""/>
-    </file>
-    <file name="romia_niagra_1-crop-u39692.jpg" crc="3849932985" seo="true" ref="photo">
+    <file name="romia_niagra_2-crop-u39892.jpg" crc="405408726" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
     <file name="blackbackpackdetail1080-crop-u37412.jpg" crc="3928145059" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
+    <file name="romiawesleylogo-crop-u36862.jpg" crc="4212225043" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
     <file name="20151212-dsc_04083-crop-u37212.jpg" crc="3939865561" seo="true" ref="photo">
+      <caption webpage="photo" alt=""/>
+    </file>
+    <file name="romia_niagra_1-crop-u39692.jpg" crc="3781309024" seo="true" ref="photo">
       <caption webpage="photo" alt=""/>
     </file>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="master_a-master.css" crc="3930018232" ref="phone>video:phone>contact:phone>index:phone>photo"/>
-      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>video:phone>contact:phone>index:phone>photo"/>
-      <file name="video.css" crc="213525407" ref="phone>video"/>
-      <file name="contact.css" crc="457808988" ref="phone>contact"/>
+      <file name="master_a-master.css" crc="3863268744" ref="phone>index:phone>contact:phone>video:phone>photo"/>
+      <file name="nomq_preview_master_a-master.css" crc="3824530138" ref="phone>index:phone>contact:phone>video:phone>photo"/>
+      <file name="index.css" crc="450547378" ref="phone>index"/>
+      <file name="contact.css" crc="4041185441" ref="phone>contact"/>
       <file name="nomq_contact.css" crc="3824530138" ref="phone>contact"/>
-      <file name="index.css" crc="3928442843" ref="phone>index"/>
-      <file name="photo.css" crc="457808988" ref="phone>photo"/>
+      <file name="video.css" crc="465347358" ref="phone>video"/>
+      <file name="photo.css" crc="4041185441" ref="phone>photo"/>
     </folder>
-    <file name="index.html" crc="356803498" seo="true" mt="1499023803338" redirect="true"/>
-    <file name="video.html" crc="3935282026" seo="true" mt="1498789415793" redirect="true"/>
-    <file name="photo.html" crc="372150697" seo="true" mt="1498789415793" redirect="true"/>
-    <file name="contact.html" crc="4293257742" seo="true" mt="1498789415793" redirect="true"/>
+    <file name="index.html" crc="3886290844" seo="true" mt="1499550808423" redirect="true"/>
+    <file name="video.html" crc="17950299" seo="true" mt="1499550808423" redirect="true"/>
+    <file name="photo.html" crc="94758576" seo="true" mt="1499550808423" redirect="true"/>
+    <file name="contact.html" crc="3865722276" seo="true" mt="1499550808423" redirect="true"/>
   </folder>
-  <file name="index.html" crc="1137535" seo="true" mt="1498786791187" redirect="true"/>
-  <file name="video.html" crc="169233917" seo="true" mt="1498785954197" redirect="true"/>
-  <file name="photo.html" crc="420498820" seo="true" mt="1498785954197" redirect="true"/>
-  <file name="contact.html" crc="4118951382" seo="true" mt="1498785954197" redirect="true"/>
+  <file name="index.html" crc="163740865" seo="true" mt="1514656933366" redirect="true"/>
+  <file name="video.html" crc="9968227" seo="true" mt="1498785954197" redirect="true"/>
+  <file name="photo.html" crc="71666221" seo="true" mt="1498785954197" redirect="true"/>
+  <file name="contact.html" crc="67545494" seo="true" mt="1498785954197" redirect="true"/>
 </manifest>
